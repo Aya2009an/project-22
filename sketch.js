@@ -33,7 +33,7 @@ function setup() {
 
  // playerArcher = new ( 340, playerBase.position.y - 112, 120, 120);
   playerArcher = new PlayerArcher( 340, playerBase.position.y - 112, 120, 120);
-  //playerArcher =  PlayerArcher( 340, playerBase.position.y - 112, 120, 120);
+ // playerArcher =  PlayerArcher( 340, playerBase.position.y - 112, 120, 120);
  // playerArcher = new PlayerArcher( );
 
 }
